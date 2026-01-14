@@ -12,7 +12,7 @@ import { StatusBar } from "expo-status-bar";
 
 const { width } = Dimensions.get("window");
 
-const DATA_ANIVERSARIO = new Date("2026-01-14");
+const DATA_ANIVERSARIO = new Date("2026-01-17");
 
 const FOTOS = [
   require("../assets/images/Foto1.jpeg"),
